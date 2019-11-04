@@ -1,8 +1,3 @@
-Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
-http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
-"Canmore-download-Mon, 04 Nov 2019 10:05:02 +0000.csv"
-
-
 CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
 "4156","NB23SW 1","Lewis, Callanish","Avenue, Chambered Cairn (Neolithic), Stone Circle (Neol/bronze Age), Stone Row(S) (Neol/bronze Age)","121300","933017","WESTERN ISLES","ROSS AND CROMARTY","UIG","NB 21300 33017","http://canmore.org.uk/site/4156",
 "39454","NR89NW 14","Ballymeanoch","Cup Marked Stone (Prehistoric), Standing Stone(S) (Prehistoric)","183370","696410","ARGYLL AND BUTE","ARGYLL","KILMICHAEL GLASSARY","NR 8337 9641","http://canmore.org.uk/site/39454",
